@@ -1,0 +1,189 @@
+1 18:52:03 INFO Loading Global Environment using Filesystem Provider from: D:\Projects\Konabos\Konabos Commerce Engine\3. Project\Project.Commerce\Sitecore.Commerce.Engine\wwwroot s\Bootstrap\
+1 18:52:03 INFO [NodeStartup] GlobalEnvironmentFrom='Configuration: Global'
+1 18:52:03 INFO [NodeStartup] Status='Started',GlobalEnvironmentName='GlobalEnvironment'
+1 18:52:03 INFO BootStrapping Application ...
+1 18:52:05 INFO Instantiating "Sitecore.Framework.Caching.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Framework.Caching.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Framework.Caching.Memory.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Framework.Caching.Memory.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Eventing.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Eventing.ConfigureSitecore"
+1 18:52:05 INFO Configuring event defaults
+1 18:52:05 INFO Instantiating "Pipelines.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Pipelines.ConfigureSitecore"
+1 18:52:05 INFO Configuring pipeline defaults
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Core.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Core.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.CacheWatcher.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.CacheWatcher.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.ManagedLists.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.ManagedLists.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Framework.Rules.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Framework.Rules.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Rules.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Rules.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Shops.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Shops.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Views.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Views.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.BusinessUsers.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.BusinessUsers.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Composer.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Composer.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.EntityVersions.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.EntityVersions.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Media.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Media.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Pricing.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Pricing.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Carts.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Carts.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Search.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Promotions.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Promotions.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Catalog.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Catalog.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Availability.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Availability.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Orders.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Orders.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Fulfillment.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Fulfillment.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Customers.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Customers.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Entitlements.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Entitlements.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.DigitalItems.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.DigitalItems.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Payments.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Payments.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.GiftCards.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.GiftCards.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Returns.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Returns.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Management.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Management.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Content.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Content.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Coupons.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Coupons.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.FaultInjection.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.FaultInjection.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Journaling.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Journaling.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Inventory.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Inventory.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Backorderable.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Backorderable.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Preorderable.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Preorderable.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Orders.DelayedAvailability.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Orders.DelayedAvailability.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Search.Azure.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.Azure.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Search.Solr.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.Solr.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.SQL.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.SQL.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Tax.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Tax.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Workflow.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Workflow.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Konabos.Loyalty.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Konabos.Loyalty.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Sitecore.Commerce.Plugin.Sample.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Sample.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.AdventureWorks.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.AdventureWorks.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.Customers.CsMigration.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.Customers.CsMigration.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.Customers.Upgrade.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.Customers.Upgrade.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.Habitat.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.Habitat.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.Payments.Braintree.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.Payments.Braintree.ConfigureSitecore"
+1 18:52:05 INFO Instantiating "Plugin.Sample.Upgrade.ConfigureSitecore"
+1 18:52:05 INFO Invoking ConfigureServices on "Plugin.Sample.Upgrade.ConfigureSitecore"
+6 18:52:07 INFO [NodeStartup] ContactId='Deployment01_7893f2fbe5f44830a60b711f25f17b03',Environment='GlobalEnvironment'
+1 18:52:08 INFO [EnvironmentStartup] StartEnvironment=HabitatMinions
+5 18:52:09 INFO [EnvironmentStartup] Environment='HabitatMinions'
+5 18:52:09 INFO Creating Memory cache store '"HabitatMinions"'
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Konabos.Loyalty.Feature.ReconcilePoints.Minions.ReconcilePointsMinion, Konabos.Loyalty.Feature.ReconcilePoints'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=ReconcilePointsMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.DeleteIndexDocumentsMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=DeleteIndexDocumentsMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.DeleteIndexDocumentsMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=DeleteIndexDocumentsMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Core.NodeHeartBeatMinion, Sitecore.Commerce.Core'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=NodeHeartBeatMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinionBoss, Sitecore.Commerce.Plugin.Orders'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinionBoss
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.ReleasedOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=ReleasedOrdersMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.DelayedAvailability.WaitingForAvailabilityOrdersMinion, Sitecore.Commerce.Plugin.Orders.DelayedAvailability'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=WaitingForAvailabilityOrdersMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Returns.RefundRmasMinion, Sitecore.Commerce.Plugin.Returns'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=RefundRmasMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.SettleSalesActivitiesMinion, Sitecore.Commerce.Plugin.Orders'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=SettleSalesActivitiesMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Catalog.PurgeCategoriesMinion, Sitecore.Commerce.Plugin.Catalog'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PurgeCategoriesMinion
+5 18:52:09 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Catalog.PurgeCatalogsMinion, Sitecore.Commerce.Plugin.Catalog'
+5 18:52:09 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PurgeCatalogsMinion
+14 18:52:09 INFO MemCache.CreateCache.HabitatMinions.EntityCache
+14 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-CatalogItemsIndex
+13 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-DeletedCatalogItemsIndex
+14 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-CustomersIndex
+14 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-DeletedCustomersIndex
+14 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-OrdersIndex
+14 18:52:09 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PurgeCatalogs
+14 18:52:09 INFO IncrementalIndexMinion-Incremental Index List CustomersIndex: Count:1
+13 18:52:09 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-e0a8aa7eaca144dc866cbf5e8fa50dea
+13 18:52:09 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-ee1d715405f74f24815ea43ad409167e
+13 18:52:09 INFO PurgeCatalogsMinion-Review List PurgeCatalogs: Count:0
+13 18:52:09 INFO PurgeCatalogsMinion-PurgeCatalogsComplete: 0
+13 18:52:12 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-ee1d715405f74f24815ea43ad409167e
+13 18:52:12 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-e0a8aa7eaca144dc866cbf5e8fa50dea
+13 18:52:13 INFO Trying to init Solr instance 'CustomersScope' at url 'https://localhost:8983/solr/CustomersScope'
+13 18:52:16 INFO IncrementalIndexMinion-Incremental Indexing Complete: 1 items from the List CustomersIndex have been indexed.
+13 18:52:16 INFO CacheWatcher.CacheTracking.NotFound in the environment HabitatMinions
+13 18:52:16 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders
+1 18:52:17 WARN Overriding address(es) '"http://localhost:5000/"'. Binding to endpoints defined in "UseKestrel()" instead.
+27 18:52:17 INFO PendingOrdersMinionBoss-ReviewList: List=PendingOrders|Count=0|WorkerMinions:2
+27 18:52:17 INFO PendingOrdersMinionBoss-Review List 'PendingOrders' completed.
+28 18:52:17 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders.1
+27 18:52:17 INFO PendingOrdersMinion-Review List PendingOrders.1: Count:0
+27 18:52:17 INFO PendingOrdersMinion-PendingOrderReviewComplete: 0
+28 18:52:17 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders.2
+28 18:52:17 INFO ReleasedOrdersMinion - Review List ReleasedOrders
+29 18:52:18 INFO PendingOrdersMinion-Review List PendingOrders.2: Count:0
+29 18:52:18 INFO PendingOrdersMinion-PendingOrderReviewComplete: 0
+29 18:52:18 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-ReleasedOrders
+30 18:52:19 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-WaitingForAvailabilityOrders
+34 18:52:20 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-RefundPendingRmas
+34 18:52:20 INFO RefundRmasMinion-Review List RefundPendingRmas: Count:0
+34 18:52:20 INFO RefundRmasMinion-RefundRmas Completed
+35 18:52:21 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-SettleSalesActivities
+35 18:52:21 INFO SettleSalesActivitiesMinion-Review List SettleSalesActivities: Count:0
+35 18:52:21 INFO SettleSalesActivitiesMinion- SettleSalesActivities Complete: 0
+21 18:52:38 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PurgeCategories
+21 18:52:38 INFO PurgeCategoriesMinion-Review List PurgeCategories: Count:0
+21 18:52:38 INFO PurgeCategoriesMinion-PurgeCategoriesComplete: 0

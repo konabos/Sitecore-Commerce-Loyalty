@@ -1,0 +1,4 @@
+1 16:55:40 INFO Loading Global Environment using Filesystem Provider from: D:\Projects\Konabos\Konabos Commerce Engine\3. Project\Project.Commerce\Sitecore.Commerce.Engine\wwwroot s\Bootstrap\
+1 16:55:40 INFO [NodeStartup] GlobalEnvironmentFrom='Configuration: Global'
+1 16:55:40 INFO [NodeStartup] Status='Started',GlobalEnvironmentName='GlobalEnvironment'
+1 16:55:40 INFO BootStrapping Application ...

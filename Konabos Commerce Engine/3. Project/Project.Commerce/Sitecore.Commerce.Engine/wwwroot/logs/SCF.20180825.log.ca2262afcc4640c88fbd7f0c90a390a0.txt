@@ -1,0 +1,851 @@
+1 16:47:21 INFO Loading Global Environment using Filesystem Provider from: D:\Projects\Konabos\Konabos Commerce Engine\3. Project\Project.Commerce\Sitecore.Commerce.Engine\wwwroot s\Bootstrap\
+1 16:47:21 INFO [NodeStartup] GlobalEnvironmentFrom='Configuration: Global'
+1 16:47:21 INFO [NodeStartup] Status='Started',GlobalEnvironmentName='GlobalEnvironment'
+1 16:47:21 INFO BootStrapping Application ...
+1 16:47:22 INFO Instantiating "Sitecore.Framework.Caching.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Framework.Caching.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Framework.Caching.Memory.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Framework.Caching.Memory.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Eventing.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Eventing.ConfigureSitecore"
+1 16:47:22 INFO Configuring event defaults
+1 16:47:22 INFO Instantiating "Pipelines.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Pipelines.ConfigureSitecore"
+1 16:47:22 INFO Configuring pipeline defaults
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Core.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Core.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.CacheWatcher.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.CacheWatcher.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.ManagedLists.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.ManagedLists.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Framework.Rules.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Framework.Rules.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Rules.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Rules.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Shops.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Shops.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Views.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Views.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.BusinessUsers.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.BusinessUsers.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Composer.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Composer.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.EntityVersions.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.EntityVersions.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Media.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Media.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Pricing.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Pricing.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Carts.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Carts.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Search.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Promotions.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Promotions.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Catalog.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Catalog.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Availability.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Availability.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Orders.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Orders.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Fulfillment.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Fulfillment.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Customers.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Customers.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Entitlements.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Entitlements.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.DigitalItems.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.DigitalItems.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Payments.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Payments.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.GiftCards.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.GiftCards.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Returns.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Returns.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Management.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Management.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Content.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Content.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Coupons.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Coupons.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.FaultInjection.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.FaultInjection.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Journaling.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Journaling.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Inventory.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Inventory.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Backorderable.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Backorderable.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Preorderable.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Preorderable.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Orders.DelayedAvailability.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Orders.DelayedAvailability.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Search.Azure.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.Azure.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Search.Solr.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Search.Solr.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.SQL.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.SQL.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Tax.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Tax.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Workflow.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Workflow.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Konabos.Loyalty.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Konabos.Loyalty.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Sitecore.Commerce.Plugin.Sample.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Sitecore.Commerce.Plugin.Sample.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.AdventureWorks.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.AdventureWorks.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.Customers.CsMigration.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.Customers.CsMigration.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.Customers.Upgrade.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.Customers.Upgrade.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.Habitat.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.Habitat.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.Payments.Braintree.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.Payments.Braintree.ConfigureSitecore"
+1 16:47:22 INFO Instantiating "Plugin.Sample.Upgrade.ConfigureSitecore"
+1 16:47:22 INFO Invoking ConfigureServices on "Plugin.Sample.Upgrade.ConfigureSitecore"
+6 16:47:23 INFO [NodeStartup] ContactId='Deployment01_ca2262afcc4640c88fbd7f0c90a390a0',Environment='GlobalEnvironment'
+1 16:47:25 INFO [EnvironmentStartup] StartEnvironment=HabitatMinions
+5 16:47:25 INFO [EnvironmentStartup] Environment='HabitatMinions'
+5 16:47:25 INFO Creating Memory cache store '"HabitatMinions"'
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Konabos.Loyalty.Feature.ReconcilePoints.Minions.ReconcilePointsMinion, Konabos.Loyalty.Feature.ReconcilePoints'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=ReconcilePointsMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.DeleteIndexDocumentsMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=DeleteIndexDocumentsMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.DeleteIndexDocumentsMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=DeleteIndexDocumentsMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.FullIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=FullIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Search.IncrementalIndexMinion, Sitecore.Commerce.Plugin.Search'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=IncrementalIndexMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Core.NodeHeartBeatMinion, Sitecore.Commerce.Core'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=NodeHeartBeatMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinionBoss, Sitecore.Commerce.Plugin.Orders'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinionBoss
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.PendingOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PendingOrdersMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.ReleasedOrdersMinion, Sitecore.Commerce.Plugin.Orders'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=ReleasedOrdersMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.DelayedAvailability.WaitingForAvailabilityOrdersMinion, Sitecore.Commerce.Plugin.Orders.DelayedAvailability'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=WaitingForAvailabilityOrdersMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Returns.RefundRmasMinion, Sitecore.Commerce.Plugin.Returns'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=RefundRmasMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Orders.SettleSalesActivitiesMinion, Sitecore.Commerce.Plugin.Orders'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=SettleSalesActivitiesMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Catalog.PurgeCategoriesMinion, Sitecore.Commerce.Plugin.Catalog'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PurgeCategoriesMinion
+5 16:47:25 INFO [MinionStartup] Environment='HabitatMinions', Minion-'Sitecore.Commerce.Plugin.Catalog.PurgeCatalogsMinion, Sitecore.Commerce.Plugin.Catalog'
+5 16:47:25 INFO [MinionInitialize] Environment=HabitatMinions, Minion=PurgeCatalogsMinion
+13 16:47:25 INFO MemCache.CreateCache.HabitatMinions.EntityCache
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-OrdersIndex
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-CatalogItemsIndex
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-DeletedCustomersIndex
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-CustomersIndex
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-DeletedCatalogItemsIndex
+13 16:47:25 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PurgeCatalogs
+18 16:47:25 INFO IncrementalIndexMinion-Incremental Index List CustomersIndex: Count:1
+18 16:47:25 INFO PurgeCatalogsMinion-Review List PurgeCatalogs: Count:0
+18 16:47:25 INFO PurgeCatalogsMinion-PurgeCatalogsComplete: 0
+18 16:47:25 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-e0a8aa7eaca144dc866cbf5e8fa50dea
+18 16:47:25 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-ee1d715405f74f24815ea43ad409167e
+18 16:47:45 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-ee1d715405f74f24815ea43ad409167e
+18 16:47:45 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-e0a8aa7eaca144dc866cbf5e8fa50dea
+18 16:47:47 INFO Trying to init Solr instance 'CustomersScope' at url 'https://localhost:8983/solr/CustomersScope'
+18 16:47:47 ERROR Pipeline completed with error
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'Konabos.Loyalty.Feature.ReconcilePoints.Pipelines.Blocks.UpdateCustomerInxDBBlock'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, ISet`1 callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(Type serviceType, Type implementationType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType, ServiceProvider serviceProvider)
+   at System.Collections.Concurrent.ConcurrentDictionaryExtensions.GetOrAdd[TKey,TValue,TArg](ConcurrentDictionary`2 dictionary, TKey key, Func`3 valueFactory, TArg arg)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.GetServiceOrCreateInstance[T](IServiceProvider provider)
+   at Sitecore.Framework.Pipelines.Definitions.AddPipelineBlockDefinition`1.Build(IServiceProvider services)
+   at Sitecore.Framework.Pipelines.BasePipelineBlockRunner.<Run>d__3`1.MoveNext()
+18 16:47:52 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=Customer-ByID-ee1d715405f74f24815ea43ad409167e
+18 16:47:52 INFO IncrementalIndexMinion-Incremental Indexing Complete: 1 items from the List CustomersIndex have been indexed.
+18 16:47:53 INFO CacheWatcher.CacheTracking.NotFound in the environment HabitatMinions
+18 16:47:55 INFO MemCache.CreateCache.HabitatMinions.LocalizedTerms
+18 16:47:55 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders
+18 16:47:55 INFO PendingOrdersMinionBoss-ReviewList: List=PendingOrders|Count=0|WorkerMinions:2
+18 16:47:55 INFO PendingOrdersMinionBoss-Review List 'PendingOrders' completed.
+18 16:47:55 INFO MemCache.CreateCache.HabitatMinions.ContentPaths
+18 16:47:55 INFO Core.MemCache.CE.Miss.ContentPath: ItemKey=Entity-ContentPath-Commerce Control Panel
+1 16:47:55 WARN Overriding address(es) '"http://localhost:5000/"'. Binding to endpoints defined in "UseKestrel()" instead.
+25 16:47:56 INFO Core.MemCache.CE.Add.ContentPath: ItemKey=Entity-ContentPath-Commerce Control Panel
+25 16:47:56 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders.1
+25 16:47:56 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=ContentItem-ByPATH-/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames
+25 16:47:56 INFO Core.MemCache.CE.Add.EntityIndex: ItemKey=ContentItem-ByPATH-/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames
+25 16:47:56 INFO PendingOrdersMinion-Review List PendingOrders.1: Count:0
+25 16:47:56 INFO PendingOrdersMinion-PendingOrderReviewComplete: 0
+25 16:47:56 INFO MemCache.CreateCache.HabitatMinions.ContentItems
+25 16:47:56 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7d2ff1d9-4997-4356-9b42-7900840bdba3
+26 16:47:58 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PendingOrders.2
+36 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-006f6ac4-9865-46b9-9590-f7715240fed0
+39 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-008dce7e-4a82-4550-98be-7c366c38b51d
+44 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-02392c34-e912-48c0-ab30-368e26b77b26
+43 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-029c17ea-64f5-4cc6-a09b-76b04f618346
+46 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-05792200-d48a-4507-8ca7-4c396b7c3cef
+45 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-046c0682-2912-450b-ba2e-c49bf23d6028
+42 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-060acbb0-2a04-449c-962f-261baf1decf0
+40 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-06a7b4a4-9899-4080-9458-db077bc10e83
+35 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-072abbe8-16c0-4798-9546-cc9193d4f732
+33 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-04182f88-e0f5-4304-843b-e49945665bca
+32 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-08701cb7-fe91-4462-953d-de1005326824
+41 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-098d6fd8-ca49-4928-8c55-7b8188a8032d
+39 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0b6134a0-7ec9-4306-8161-49544c815130
+45 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0abc9700-e00e-45a8-9071-43ff2c82cfe4
+27 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0c2e6459-b3bd-4940-bf2f-42c0aedb1fc9
+34 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0cd301fa-0195-42ce-af18-918d6d462892
+40 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0dc6909b-9c89-4197-a480-8d3ee19f67e7
+36 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0e3beb73-453f-40f6-b4a1-148393013587
+28 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0ec0eed2-1b37-48cf-8e03-387a3e7cc2fd
+30 16:47:58 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0c16ccb4-1ee6-4c92-9727-5352b23e21f6
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0ecb9383-5f9d-4b3c-81c4-45581ce52665
+29 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0f56bea6-1fde-4362-8ff5-f272f0e584cf
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-10b2b360-2c2e-40ad-9216-f2b5b2e3a10f
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0ffb8061-94f0-4481-8096-cfba1e17563d
+31 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-10bbd593-f2ac-4c0a-9246-6f1819889dca
+26 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-0f6b3e81-ec29-453d-b824-47b2ae6629f0
+28 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-116c4aac-ed8e-4572-adbc-8c5a4c2e6828
+37 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-12cc4eea-10fe-496c-b38d-6fce9ed1dcf4
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-11a29aff-7b51-4cd9-a85e-f0d8d6ebf03d
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-131f56a4-a684-4b24-9e1a-16364e316a8f
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-12daa8c4-5fdf-493c-94aa-1ca9a6facb86
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1742136c-29a5-425b-9cc1-9d142b618fff
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-18614c2f-3cd9-4fb4-9b54-d50b547dae7f
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-14b12d66-ea5c-4386-b987-ce5300aefd3e
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-18adae58-2454-4dab-aafa-7e61e0e32b52
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1a64b271-d5f8-4ada-b8f6-3aeb158b99f0
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1b17e2f0-9e9c-4f35-aa3c-f1b94eee3b19
+36 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1bbe8d05-b14e-4566-8bfe-718200029ef7
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1bcd0bdb-130c-4195-a3c4-86f88d8d4002
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1c012a99-8a75-4ea3-9db6-05bb3f6717e0
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1bca8ac4-205b-4ad7-8180-ecfda2902e27
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1f6dbb9c-6a14-4248-a5db-fe9345f2c059
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1fa2eeb8-0f70-4620-8b61-3e1dfdf6a6e8
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-215464a0-4ab9-4706-adf2-90adc2258b36
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-24435843-6958-49d1-a049-dbc253d42d90
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2211bb06-8c24-4eed-bfab-9beb3b13fd90
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-1fb1ec8d-1bf5-4106-9124-0ba4f2b70be0
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-266288e9-9612-44fc-b2ea-2dd6219c3e91
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-29ad87b3-e907-41bf-a563-686575fb1ebf
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2826e54b-ead7-47be-b61b-8af1d8191c06
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2b5ad579-2b09-42a2-a429-64c2de515898
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2c5ecf3f-f1c7-4908-ba1d-b67430fbcb13
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2bda0482-355f-474f-9a13-a66bed2620fd
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2c740a3d-caff-4f2d-ab69-1e511ecde3f1
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-202dfbed-8d12-46d7-aa46-1ad570a94dd4
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2d655d3d-8aa4-4cba-88f4-406dc1b314d5
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2dd1329c-6eed-4d85-bd3f-6f57c95adda5
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-2ddc7e03-c99b-49d4-8b31-ba1122f4b6e9
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-30c63137-eac4-45a1-b257-10a08fb52c8a
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-31e176a0-df9f-47ca-adfd-f72a30cb2512
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3230eaac-ef0e-41ba-9058-a40792c8519e
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-32a139ac-a3c8-4cb9-a487-3134a20d7d11
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-34d7351c-a5c5-4cff-8df6-3f7505d85e7d
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-327fe485-96b2-4336-b6f4-3b0297328f8c
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-330e1c67-84b6-42e5-aaae-d7b8be550900
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-37a15299-7fd8-4e26-8923-c7ca2cd8c517
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-37d6b796-5ede-42b7-8ccc-14b2004d8fd9
+27 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-37dc43dd-8f4e-423c-8ceb-9d1b08a08076
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-385bb3a0-3449-4c4c-8db1-b72563556fc6
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3897e64e-7bb8-4301-922c-340717e1e8cf
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-38758d45-93b0-407a-978c-c474b2828612
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3ac03dda-2595-4d46-9ba0-fd590e7a58cd
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3bdfa430-4376-49d0-aaa4-ab98504ed4fe
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3d8e2e43-a554-4a5c-9cb7-ed1577008063
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3b750534-b53e-464b-97c7-845d52f4173b
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3dd8e5e4-7454-47b8-9bba-15909ce11c64
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3f38c07d-0ce7-4b2a-ab71-5c15c5266ca8
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-41c2caa2-ed66-4c06-ba66-ca3ed300edf0
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-3e656925-b827-4a28-aaec-d0a2a52159ce
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4366ae73-98cd-4488-9940-bec149f89b30
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-44b57eb4-336c-4021-b8cc-9f27c2ee633c
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-44fa4f2d-b68b-4223-832a-69e8ac69acd8
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4570b369-2631-4a83-9f89-bb59f4eba3b0
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-46248648-6b52-493a-8030-eb2850e5b965
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-47ebe330-c073-4e6f-a1ac-786601bedf43
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-49460fa6-b351-434d-ae93-67718f4892aa
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-496f3738-f0e0-4fca-bfaf-8e1c9b53f7ae
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4ad24a01-1eb3-4e56-92cc-b4e510f08197
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4c47f8eb-4521-4fc7-9ffb-a2341f20f740
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4bba3aa2-a644-45d1-a1e3-3945f69814fa
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4d23bec9-ceff-413c-a28e-ad80ab1d58a5
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4d8b4dea-b727-47b2-b130-1cfdf552652d
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4ddc38da-68a7-4ec4-a913-cdca3e011c83
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4e125e84-0842-4974-83fc-c1fc80b3615f
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4fa10c2a-e32e-4bf8-a25f-62183a662d9d
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-4e69bc44-60ab-4805-a7e5-432fc44ad581
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-50315119-fa08-4b00-a7a8-bb0e239f1ae2
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-50844977-3fe0-47ad-b3cd-ddd4ead2cfef
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-50f6024f-bc3c-40d1-880f-74b14530212e
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5149e1a3-4558-4da0-a950-f584a6ecd7a8
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-527cd606-3a92-4728-8283-5e0d1604fc2a
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-52b76b63-8820-4dd8-ab55-182dfe90f2f9
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-52eaee39-8ad6-4082-a89f-54a2ddb18cec
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-53a285db-e79f-4f49-9e20-fee7d2d6eedd
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-54d78772-0f4d-496c-9f50-d64de06f827a
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5553b067-8a01-4350-92d9-99606e06b4e4
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-555eda8e-72cd-444b-8316-b6d29db174a2
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-55a6a32e-0ae7-4fd0-9e84-d1d37cc2d2cc
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-57cece7a-6a9e-4839-9a2e-4cc726d5acec
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5874e475-6260-4ce1-a4c0-c6325f507836
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-58e97873-1c6d-46a1-ae9d-b8bdf2d5f674
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-59649fa4-ac53-40ee-88ad-1d47593ba2c9
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-597a0d8b-a8b2-4849-a986-cc4439f9cb45
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5b3b9ae6-2156-4cc4-97c4-7d3aa7eb9ba4
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5dc40ae7-3208-4d85-8822-cb72bfe5a927
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-5f93190b-fc9b-494e-bfdc-f21a9f62fbbf
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6060d847-a2e9-424d-9577-dddfd1e8a277
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-607b1070-d428-457d-97a2-acf9506825a9
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-60a53b8f-0e10-4026-b6bb-92e531cc15de
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-612db40b-e55e-4247-805f-fc6754a6f710
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6133dfc7-0105-4474-b7b9-248003ab0ce2
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-61f9a346-af2a-4ce2-8159-271e1521a90e
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-624be355-2489-4507-aa2c-246cd0eb7991
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-62d43f74-2b93-4315-a911-4394fd1ecfdd
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6455ddd9-fbc7-49d3-ad19-db43c2d3e359
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6478a4ca-36de-4639-86fe-fba22e5600f4
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-64a0c704-6dbf-4440-91dd-c6c8d6196485
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-64beee22-d9c3-4784-ba52-1d0629e18230
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-65b3d52f-49ad-44bb-9bf3-9621157f6fe2
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-65fa3976-3da4-4387-8434-2e738a4a099e
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-680b0dad-eb95-4a20-8f78-94b1dcc1769a
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6a9ffd19-c7fd-44d1-b8d7-4b1c4ddea1ae
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-69845a37-fd06-470c-b422-e82652d3ad2a
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6ad3d592-eb5c-4136-9bab-4d0953d09af6
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6b556426-143e-46d0-9e21-efbeb85759c3
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6c6d841c-9134-4821-baaf-a0b41bd524df
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6e6fe9ef-b593-4fe6-b106-aff67ec24f8e
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6d58221a-8a9b-4282-a119-fa38d09f038b
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6eed61cd-12fa-4bf0-aa9c-7993c6f56106
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-6efe8009-1eb6-4855-b89d-b379a1dcbea6
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7152cf61-249d-4483-8b49-73e15b7864f6
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-71d691fd-3c63-4701-882e-c77fbbfa10d4
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-71dfc0e2-744d-43f5-923e-d82edf0fc906
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7243c371-21cb-49c9-8759-a1aa9520cd10
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-745eafca-3cf4-471d-ba88-92fb3e693ddf
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-749be206-309c-4a72-ba90-55cc5e207a7e
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-752a4b40-fbbf-4ca4-9e99-7c7fec36ed2e
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7496f9cd-45f7-423c-8307-3c71c019696e
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7728c61f-a62e-4699-907e-0ced7ab96fc1
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-77bf384d-ab13-45d6-82e6-604e16935861
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7a6e11ba-f968-4f57-87f8-c466a92e6cdb
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7aed9fe6-aabf-4208-aab7-072eb9876569
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7c445bc8-5769-491d-a6f3-b00f79ed12bc
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7c75d4d3-5813-489d-a454-e0b908fe6e05
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7cbdd3fe-325b-49ed-a354-10a41fba8062
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7d548a1a-721a-4b85-a3fa-493b84260ada
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7ee00d2c-3bfa-47fc-9efd-bf1106961ad6
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7f0b4de0-b8ba-45c5-810a-533b5a3e417b
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7f475f9d-341e-4a21-bec2-0f5f74987a3b
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-7f4b0e28-84cc-411d-8873-3f8c1e0fd6cd
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-818805d8-b727-42b3-9712-4bcaa717d664
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-821166b0-50b3-48d5-8a97-11a22805ba22
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-83d9be96-1c76-49de-808c-35d649f01605
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-86593300-fb60-41c2-885e-715d05a6eb4b
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-87e0e908-54eb-4491-85a6-f8e787382485
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-899f7649-048b-4a12-a0aa-9231e2d075dc
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-87a244d1-f53b-4702-930f-8fb0aa29172c
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-89eeca64-3d71-4c26-a495-0eeba3201ec4
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-78b4e0e2-4ab0-4585-a6d6-708c55d34b71
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8a0b4765-4c13-4edb-97d0-faadefa87c42
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8c6278e4-1683-4eb5-92c4-161dd5ec41bb
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8b04c10a-1030-4457-b64c-26cf6a59bb54
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8c48b9de-5cf1-46e9-a7a8-c5e50309a79a
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8e943381-b27c-4621-b4f8-1fbb908283f0
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8f317b08-eeac-49de-a923-e7c6ae2d305a
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-90ca5416-a1e4-4bb5-8747-ac8bbbb8fc18
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8a544772-1369-4f21-952f-cd55d1e3d5e1
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-94b9c805-2a94-4791-86e8-71347f62a9e7
+38 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-949c587a-719b-42af-9d95-bc23a0a0ca06
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-95401c27-94d4-4d8a-b8cd-81f58e06c753
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8e5ab794-bba9-4a92-ba31-32ae11cf1dcd
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-86ccdcb3-cc70-4de2-9459-8a42199cec3e
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9710c208-dcc9-4047-bbff-2ab57cb906cb
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-85481601-540e-4c6f-b94c-bdc8c332d7b0
+36 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-91a75d88-c434-468b-96d1-cfc16852834c
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-92a99823-a564-402d-b9b4-bb5291e6e6d2
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-957be415-c62c-486d-81d7-7e6cfd458d5e
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8eacce43-c77f-4964-904d-5b23ed9f2148
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-97ab9822-94db-4917-8cb3-bf9ba16f1c3d
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9ade6a36-f0fe-47e7-9625-63a993c9e71c
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-8a8a33ad-1513-4804-a817-9efec4b55569
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9d4da0be-1d7a-4d60-b91d-34cd4c1ff724
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-97e54ca4-021c-46d4-b800-81424921dacc
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9ec8ef4c-bd97-4c82-bacd-91216371187c
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9e1a66c2-415f-4e02-914b-8d537b7688af
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9bd55ecf-8395-4f92-a73b-5345c312e439
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a21739f0-835b-4c14-b530-a1b4f8a503f3
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9ecc4f25-9290-493d-9101-460e6709de93
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a2ebf992-a79b-4f93-8a34-ff71d87dd7b9
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a41556c0-afe3-4a4c-969c-c4717e56e99c
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-9fe50ae0-7b0a-4daa-99e4-fbc84eaf4002
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a2044777-8816-4c8d-910f-b0579e825c5a
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a69c47e9-0afa-4943-a87c-b8d88c7f694c
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a924af6d-b35c-4b9b-a95c-a026ba3eccca
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a6c61b70-85b7-4ab0-96bd-afe779999837
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a5dbcd43-1447-4cdb-ba14-d1f60ff185e2
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a986076e-be1e-4828-804f-0918bd99b77c
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a52794f8-5c7f-40aa-a92d-1eb576db8e39
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-abb00d90-9161-4a9f-afd7-cde326329280
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ab65a556-f051-4006-84ec-9343d3ddd6e7
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-acc70752-6b9e-43db-a9e1-c5abc0d136c8
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a61702de-1f4c-493b-8f6f-60afb39beb89
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b0d340dc-1e90-4272-819b-8b9804ad7741
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b2c3dc9c-b495-42fb-a20f-e6b33cf78ce6
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b29a55b4-60d1-4113-ae8f-1a5fc03c5b43
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b3699f28-b2d8-49dc-acca-4aece74b9bcd
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b6e6f351-d92a-401a-9b7c-dd15e6170c4d
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b45f7f11-6f47-4c75-9a39-bfb849a8de3a
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b8d013be-1d3a-482e-a7f3-aba1b60835e4
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b87ae4b0-00ca-4666-bc2f-0c8bfa502bd0
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bc194b72-5cc5-4743-816f-ae59f16b617c
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-aa5cd3f7-c9a1-4aee-9a6f-cc0355887f03
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bca1589e-b8ff-45be-be37-d1fd548558fa
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bd011b45-2d8d-44fe-8a80-0a966008e104
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-adcd5afa-f7dd-43c1-ae66-dfbae5ff73e8
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-b8bf7732-4f02-4291-a8e6-512773e62c27
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bab7f771-dec4-4d42-9ac6-f7ed7412055c
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c223edfc-b0e7-4b91-ba7b-e0056b1b72ea
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bd6bb351-0f73-4d62-bc8f-d9896ef00e37
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bedf1689-0735-4a96-b99d-981dc2bf4253
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c4e76b3d-6454-4c15-a981-26880a295beb
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c30ba73a-bc86-484b-b979-0ef83c6a3421
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c6ec0391-522f-4b16-ab1f-071d52108896
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c506bcd4-4a05-46c4-a7d3-993583e5a939
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c281efcb-269e-4c6c-b17c-51cb01a7efe7
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c56b1e37-b142-4b1f-a15b-3050e81d9a6b
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c8e1334f-e076-4923-a84f-3c2e0c56c255
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c353741c-a54d-4ca9-b6bb-48dc91d942b9
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c9086da9-41b8-4b57-95df-3b307b490411
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-cc0dc5b6-9b73-4fd0-8e13-20fbc946c8d4
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ccc70f63-63ae-4df2-90e9-169f79aece81
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ceeefd01-b3bb-483f-9773-fdffeb78ff46
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-cefd39c7-f39d-4839-974b-a3314ab3e648
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d0013404-a393-42e5-8e80-1047dd480294
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d05330a0-233c-4ca0-a933-f95e21aca1b2
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d0653406-a905-4d80-8b1c-60b29d05236e
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d1465add-fb49-4a62-a86a-1be0526ed214
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c0622658-b489-4138-8e5c-a8309892c63c
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d2dffe96-2e59-454e-b499-d9cb7b3d7536
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d2eb2b26-69fa-4162-918d-3226b2cb42fb
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d3db2f8c-609e-4910-8995-e09761858902
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d6f80a87-766b-4f3f-9b9c-d9a0903c649e
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d45a8b04-66f0-4816-83c0-88c3834ebb0d
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d131f7c9-d731-48ae-ac3e-25d092a3e5a2
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d5e57974-f1a4-4daa-b806-5d69e14de937
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-d74c7dd4-d9fb-415a-9461-c99cba36283c
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-db5e3776-12ee-4b01-86af-4da7f8176858
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e0884979-1a13-418a-9c4c-90326691914c
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-dd848671-f83b-4a88-aec1-7be6d8086bc6
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-dfffb64a-3ff3-4b4e-972c-06ca9c0a9a49
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e09a1fa1-7258-4507-aba7-465348d1993a
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e1442dd1-2534-40f4-9f0c-cb11d44ee514
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e1cf37ef-beda-41cc-8962-8d81bb4ea1fd
+39 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e4047479-ad1e-4470-93c2-50775e38fc5a
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e7be158e-0095-4df0-905a-ed45516ed10e
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e0593644-e1ca-4cc5-95ff-4e6b74c85a2d
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e840eadc-ce11-4c5a-83e8-1b76c058530b
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e973e317-93ad-49a9-972f-a460bcff3b0d
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-e98364df-ff69-45ca-9f50-65be184b77ae
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-eb166a56-76a6-422f-8063-1391d6e9a1ce
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-dbdd2a11-dccc-446e-807f-2589d0355aa1
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ec526a02-abdc-4701-9ede-b06f9c7ccc07
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ed7d7c50-fd84-4852-9ea7-bd06ece87099
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-eacb606d-c0d7-4d2a-ab30-ed29aa91bf91
+42 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ef1beaa4-ce8c-45b6-b121-c5def661f967
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f3325fc6-d01d-4e91-b0f1-265e8291a336
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f2ad6faa-cfa0-450a-bfec-a52f315ff791
+37 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f3e4132c-936c-4335-a835-cdb70475da6d
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f0fa0982-e8a3-4cf6-8f03-aae11aa24732
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f4f81114-2393-4b9a-bab0-77a5c40169b5
+41 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f65b0f72-bdcc-44e4-9352-db43c68a9185
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f7362403-43ec-465f-bef9-2db638c87e99
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f750d401-59bb-42eb-a40d-51b5abc7251a
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f75e821d-1862-442d-a227-591563dba627
+44 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f96b1641-bbf9-4018-b41b-7700bfd92779
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f7c4dce0-3783-4c4b-9bb2-0a5259117e32
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f97f041e-c96a-4991-9c66-8518a1936883
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f6147aab-442e-45c0-9dca-41a038c76cc1
+45 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-f99df957-2edb-4aa8-8064-d084a71e9cbd
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-faff7b29-76a2-4296-9d49-55eaa08861ee
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-befe50e4-5c58-4af3-ac4e-77ba05ccb803
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fb527672-850f-4593-94ac-f18c8a210a09
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fb54b936-7e83-49b8-9c02-920c67bbe643
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fbc1f955-dfd6-4396-ad7a-31f298d3563b
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fc41a6a9-6c26-485c-b9b1-d34c8ffc64db
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fb312cfd-4272-4d77-9d0c-4a540534253e
+43 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fd88520f-b542-4384-996d-7da0d5915e75
+46 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fd06e41b-36c1-4243-9c7a-4fb29987d7f9
+40 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fd9006a3-c8fd-43b4-859a-f8f99164c8eb
+26 16:47:59 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-24a2b019-e0ca-402b-b361-380c6bfcc993
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fe5acc1a-b73b-48df-a0c1-f701aea4c9c9
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fef0a706-8785-4418-8f60-5b19131cd26d
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fe595f6c-12b9-429c-9650-062d3fae49de
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-ff29db86-9d7f-4e2b-90e3-38c7947c3102
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-fec2a30b-45a3-496e-a5a6-112abab6ebec
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a4519d1f-966d-4348-9bb3-9d9fae30b8de
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bd0a3766-356d-466a-945a-04bbb1052b60
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c2151541-e1f7-483d-87de-64e4e7265b9f
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-a4d0f96b-02f9-4286-bb8e-00f1fe5d32b0
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-c481efc4-d601-45c1-a5c2-51af18234eeb
+26 16:48:00 INFO Core.MemCache.CE.Miss.ContentItem: ItemKey=Entity-ContentItem-bd49c082-1b9c-47c0-8988-4dbe358bd02e
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-008dce7e-4a82-4550-98be-7c366c38b51d
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-05792200-d48a-4507-8ca7-4c396b7c3cef
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-046c0682-2912-450b-ba2e-c49bf23d6028
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-02392c34-e912-48c0-ab30-368e26b77b26
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-060acbb0-2a04-449c-962f-261baf1decf0
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-029c17ea-64f5-4cc6-a09b-76b04f618346
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-06a7b4a4-9899-4080-9458-db077bc10e83
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-072abbe8-16c0-4798-9546-cc9193d4f732
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-006f6ac4-9865-46b9-9590-f7715240fed0
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-04182f88-e0f5-4304-843b-e49945665bca
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-08701cb7-fe91-4462-953d-de1005326824
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-098d6fd8-ca49-4928-8c55-7b8188a8032d
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0b6134a0-7ec9-4306-8161-49544c815130
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0abc9700-e00e-45a8-9071-43ff2c82cfe4
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0c2e6459-b3bd-4940-bf2f-42c0aedb1fc9
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0cd301fa-0195-42ce-af18-918d6d462892
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0c16ccb4-1ee6-4c92-9727-5352b23e21f6
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0ec0eed2-1b37-48cf-8e03-387a3e7cc2fd
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0dc6909b-9c89-4197-a480-8d3ee19f67e7
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0e3beb73-453f-40f6-b4a1-148393013587
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0ecb9383-5f9d-4b3c-81c4-45581ce52665
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0f56bea6-1fde-4362-8ff5-f272f0e584cf
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-10b2b360-2c2e-40ad-9216-f2b5b2e3a10f
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0ffb8061-94f0-4481-8096-cfba1e17563d
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-10bbd593-f2ac-4c0a-9246-6f1819889dca
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-0f6b3e81-ec29-453d-b824-47b2ae6629f0
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-116c4aac-ed8e-4572-adbc-8c5a4c2e6828
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-12daa8c4-5fdf-493c-94aa-1ca9a6facb86
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-11a29aff-7b51-4cd9-a85e-f0d8d6ebf03d
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-131f56a4-a684-4b24-9e1a-16364e316a8f
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1742136c-29a5-425b-9cc1-9d142b618fff
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2dd1329c-6eed-4d85-bd3f-6f57c95adda5
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2d655d3d-8aa4-4cba-88f4-406dc1b314d5
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2826e54b-ead7-47be-b61b-8af1d8191c06
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2ddc7e03-c99b-49d4-8b31-ba1122f4b6e9
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1c012a99-8a75-4ea3-9db6-05bb3f6717e0
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1b17e2f0-9e9c-4f35-aa3c-f1b94eee3b19
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2b5ad579-2b09-42a2-a429-64c2de515898
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-30c63137-eac4-45a1-b257-10a08fb52c8a
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-31e176a0-df9f-47ca-adfd-f72a30cb2512
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2bda0482-355f-474f-9a13-a66bed2620fd
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-29ad87b3-e907-41bf-a563-686575fb1ebf
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2c5ecf3f-f1c7-4908-ba1d-b67430fbcb13
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-18adae58-2454-4dab-aafa-7e61e0e32b52
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-266288e9-9612-44fc-b2ea-2dd6219c3e91
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-24435843-6958-49d1-a049-dbc253d42d90
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1bca8ac4-205b-4ad7-8180-ecfda2902e27
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-34d7351c-a5c5-4cff-8df6-3f7505d85e7d
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-330e1c67-84b6-42e5-aaae-d7b8be550900
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-37dc43dd-8f4e-423c-8ceb-9d1b08a08076
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2c740a3d-caff-4f2d-ab69-1e511ecde3f1
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-2211bb06-8c24-4eed-bfab-9beb3b13fd90
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-32a139ac-a3c8-4cb9-a487-3134a20d7d11
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3230eaac-ef0e-41ba-9058-a40792c8519e
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-38758d45-93b0-407a-978c-c474b2828612
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3d8e2e43-a554-4a5c-9cb7-ed1577008063
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3897e64e-7bb8-4301-922c-340717e1e8cf
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1fb1ec8d-1bf5-4106-9124-0ba4f2b70be0
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1bbe8d05-b14e-4566-8bfe-718200029ef7
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-215464a0-4ab9-4706-adf2-90adc2258b36
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3b750534-b53e-464b-97c7-845d52f4173b
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3bdfa430-4376-49d0-aaa4-ab98504ed4fe
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3dd8e5e4-7454-47b8-9bba-15909ce11c64
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-18614c2f-3cd9-4fb4-9b54-d50b547dae7f
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3f38c07d-0ce7-4b2a-ab71-5c15c5266ca8
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-41c2caa2-ed66-4c06-ba66-ca3ed300edf0
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4366ae73-98cd-4488-9940-bec149f89b30
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1f6dbb9c-6a14-4248-a5db-fe9345f2c059
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3e656925-b827-4a28-aaec-d0a2a52159ce
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-46248648-6b52-493a-8030-eb2850e5b965
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-47ebe330-c073-4e6f-a1ac-786601bedf43
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-44fa4f2d-b68b-4223-832a-69e8ac69acd8
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4570b369-2631-4a83-9f89-bb59f4eba3b0
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4ad24a01-1eb3-4e56-92cc-b4e510f08197
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4c47f8eb-4521-4fc7-9ffb-a2341f20f740
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-3ac03dda-2595-4d46-9ba0-fd590e7a58cd
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-496f3738-f0e0-4fca-bfaf-8e1c9b53f7ae
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4e125e84-0842-4974-83fc-c1fc80b3615f
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4d8b4dea-b727-47b2-b130-1cfdf552652d
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4fa10c2a-e32e-4bf8-a25f-62183a662d9d
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-50315119-fa08-4b00-a7a8-bb0e239f1ae2
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4ddc38da-68a7-4ec4-a913-cdca3e011c83
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4d23bec9-ceff-413c-a28e-ad80ab1d58a5
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4e69bc44-60ab-4805-a7e5-432fc44ad581
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-12cc4eea-10fe-496c-b38d-6fce9ed1dcf4
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5149e1a3-4558-4da0-a950-f584a6ecd7a8
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-50f6024f-bc3c-40d1-880f-74b14530212e
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-202dfbed-8d12-46d7-aa46-1ad570a94dd4
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-527cd606-3a92-4728-8283-5e0d1604fc2a
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-52b76b63-8820-4dd8-ab55-182dfe90f2f9
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-49460fa6-b351-434d-ae93-67718f4892aa
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-54d78772-0f4d-496c-9f50-d64de06f827a
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5553b067-8a01-4350-92d9-99606e06b4e4
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-53a285db-e79f-4f49-9e20-fee7d2d6eedd
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-597a0d8b-a8b2-4849-a986-cc4439f9cb45
+27 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-327fe485-96b2-4336-b6f4-3b0297328f8c
+27 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-4bba3aa2-a644-45d1-a1e3-3945f69814fa
+26 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-44b57eb4-336c-4021-b8cc-9f27c2ee633c
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-37d6b796-5ede-42b7-8ccc-14b2004d8fd9
+38 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1fa2eeb8-0f70-4620-8b61-3e1dfdf6a6e8
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-55a6a32e-0ae7-4fd0-9e84-d1d37cc2d2cc
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a69c47e9-0afa-4943-a87c-b8d88c7f694c
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-555eda8e-72cd-444b-8316-b6d29db174a2
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-57cece7a-6a9e-4839-9a2e-4cc726d5acec
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5dc40ae7-3208-4d85-8822-cb72bfe5a927
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5f93190b-fc9b-494e-bfdc-f21a9f62fbbf
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-607b1070-d428-457d-97a2-acf9506825a9
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6060d847-a2e9-424d-9577-dddfd1e8a277
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6133dfc7-0105-4474-b7b9-248003ab0ce2
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-612db40b-e55e-4247-805f-fc6754a6f710
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-624be355-2489-4507-aa2c-246cd0eb7991
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-61f9a346-af2a-4ce2-8159-271e1521a90e
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-62d43f74-2b93-4315-a911-4394fd1ecfdd
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-58e97873-1c6d-46a1-ae9d-b8bdf2d5f674
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5874e475-6260-4ce1-a4c0-c6325f507836
+36 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-60a53b8f-0e10-4026-b6bb-92e531cc15de
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6478a4ca-36de-4639-86fe-fba22e5600f4
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-64a0c704-6dbf-4440-91dd-c6c8d6196485
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6455ddd9-fbc7-49d3-ad19-db43c2d3e359
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-65b3d52f-49ad-44bb-9bf3-9621157f6fe2
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-680b0dad-eb95-4a20-8f78-94b1dcc1769a
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-64beee22-d9c3-4784-ba52-1d0629e18230
+41 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-65fa3976-3da4-4387-8434-2e738a4a099e
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-69845a37-fd06-470c-b422-e82652d3ad2a
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6a9ffd19-c7fd-44d1-b8d7-4b1c4ddea1ae
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6ad3d592-eb5c-4136-9bab-4d0953d09af6
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6c6d841c-9134-4821-baaf-a0b41bd524df
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-71d691fd-3c63-4701-882e-c77fbbfa10d4
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7152cf61-249d-4483-8b49-73e15b7864f6
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6eed61cd-12fa-4bf0-aa9c-7993c6f56106
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6d58221a-8a9b-4282-a119-fa38d09f038b
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-71dfc0e2-744d-43f5-923e-d82edf0fc906
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-59649fa4-ac53-40ee-88ad-1d47593ba2c9
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-745eafca-3cf4-471d-ba88-92fb3e693ddf
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6e6fe9ef-b593-4fe6-b106-aff67ec24f8e
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-752a4b40-fbbf-4ca4-9e99-7c7fec36ed2e
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-749be206-309c-4a72-ba90-55cc5e207a7e
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6b556426-143e-46d0-9e21-efbeb85759c3
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7c445bc8-5769-491d-a6f3-b00f79ed12bc
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7a6e11ba-f968-4f57-87f8-c466a92e6cdb
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7728c61f-a62e-4699-907e-0ced7ab96fc1
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7aed9fe6-aabf-4208-aab7-072eb9876569
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-385bb3a0-3449-4c4c-8db1-b72563556fc6
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-5b3b9ae6-2156-4cc4-97c4-7d3aa7eb9ba4
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-50844977-3fe0-47ad-b3cd-ddd4ead2cfef
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1bcd0bdb-130c-4195-a3c4-86f88d8d4002
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7f0b4de0-b8ba-45c5-810a-533b5a3e417b
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7496f9cd-45f7-423c-8307-3c71c019696e
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-899f7649-048b-4a12-a0aa-9231e2d075dc
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-6efe8009-1eb6-4855-b89d-b379a1dcbea6
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-87e0e908-54eb-4491-85a6-f8e787382485
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-87a244d1-f53b-4702-930f-8fb0aa29172c
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-77bf384d-ab13-45d6-82e6-604e16935861
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-818805d8-b727-42b3-9712-4bcaa717d664
+38 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7c75d4d3-5813-489d-a454-e0b908fe6e05
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-86593300-fb60-41c2-885e-715d05a6eb4b
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7cbdd3fe-325b-49ed-a354-10a41fba8062
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-83d9be96-1c76-49de-808c-35d649f01605
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-78b4e0e2-4ab0-4585-a6d6-708c55d34b71
+40 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8c6278e4-1683-4eb5-92c4-161dd5ec41bb
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8c48b9de-5cf1-46e9-a7a8-c5e50309a79a
+38 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-89eeca64-3d71-4c26-a495-0eeba3201ec4
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8b04c10a-1030-4457-b64c-26cf6a59bb54
+46 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8a0b4765-4c13-4edb-97d0-faadefa87c42
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-52eaee39-8ad6-4082-a89f-54a2ddb18cec
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-821166b0-50b3-48d5-8a97-11a22805ba22
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-95401c27-94d4-4d8a-b8cd-81f58e06c753
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8f317b08-eeac-49de-a923-e7c6ae2d305a
+39 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8a544772-1369-4f21-952f-cd55d1e3d5e1
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-90ca5416-a1e4-4bb5-8747-ac8bbbb8fc18
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9710c208-dcc9-4047-bbff-2ab57cb906cb
+44 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8e5ab794-bba9-4a92-ba31-32ae11cf1dcd
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-91a75d88-c434-468b-96d1-cfc16852834c
+43 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8e943381-b27c-4621-b4f8-1fbb908283f0
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-86ccdcb3-cc70-4de2-9459-8a42199cec3e
+45 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8eacce43-c77f-4964-904d-5b23ed9f2148
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-92a99823-a564-402d-b9b4-bb5291e6e6d2
+35 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7243c371-21cb-49c9-8759-a1aa9520cd10
+38 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-94b9c805-2a94-4791-86e8-71347f62a9e7
+42 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7f475f9d-341e-4a21-bec2-0f5f74987a3b
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-97ab9822-94db-4917-8cb3-bf9ba16f1c3d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-957be415-c62c-486d-81d7-7e6cfd458d5e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-8a8a33ad-1513-4804-a817-9efec4b55569
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9d4da0be-1d7a-4d60-b91d-34cd4c1ff724
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9e1a66c2-415f-4e02-914b-8d537b7688af
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9ec8ef4c-bd97-4c82-bacd-91216371187c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-97e54ca4-021c-46d4-b800-81424921dacc
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9ecc4f25-9290-493d-9101-460e6709de93
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a41556c0-afe3-4a4c-969c-c4717e56e99c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9bd55ecf-8395-4f92-a73b-5345c312e439
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9ade6a36-f0fe-47e7-9625-63a993c9e71c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a21739f0-835b-4c14-b530-a1b4f8a503f3
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-9fe50ae0-7b0a-4daa-99e4-fbc84eaf4002
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a2044777-8816-4c8d-910f-b0579e825c5a
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a2ebf992-a79b-4f93-8a34-ff71d87dd7b9
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a986076e-be1e-4828-804f-0918bd99b77c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a6c61b70-85b7-4ab0-96bd-afe779999837
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b8d013be-1d3a-482e-a7f3-aba1b60835e4
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d0013404-a393-42e5-8e80-1047dd480294
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-949c587a-719b-42af-9d95-bc23a0a0ca06
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7d548a1a-721a-4b85-a3fa-493b84260ada
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f4f81114-2393-4b9a-bab0-77a5c40169b5
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d74c7dd4-d9fb-415a-9461-c99cba36283c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f750d401-59bb-42eb-a40d-51b5abc7251a
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d2dffe96-2e59-454e-b499-d9cb7b3d7536
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a924af6d-b35c-4b9b-a95c-a026ba3eccca
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-14b12d66-ea5c-4386-b987-ce5300aefd3e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-37a15299-7fd8-4e26-8923-c7ca2cd8c517
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-85481601-540e-4c6f-b94c-bdc8c332d7b0
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7ee00d2c-3bfa-47fc-9efd-bf1106961ad6
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-1a64b271-d5f8-4ada-b8f6-3aeb158b99f0
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a52794f8-5c7f-40aa-a92d-1eb576db8e39
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a5dbcd43-1447-4cdb-ba14-d1f60ff185e2
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ab65a556-f051-4006-84ec-9343d3ddd6e7
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-abb00d90-9161-4a9f-afd7-cde326329280
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-acc70752-6b9e-43db-a9e1-c5abc0d136c8
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b0d340dc-1e90-4272-819b-8b9804ad7741
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a61702de-1f4c-493b-8f6f-60afb39beb89
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b29a55b4-60d1-4113-ae8f-1a5fc03c5b43
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b2c3dc9c-b495-42fb-a20f-e6b33cf78ce6
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b3699f28-b2d8-49dc-acca-4aece74b9bcd
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b6e6f351-d92a-401a-9b7c-dd15e6170c4d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b45f7f11-6f47-4c75-9a39-bfb849a8de3a
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b87ae4b0-00ca-4666-bc2f-0c8bfa502bd0
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bc194b72-5cc5-4743-816f-ae59f16b617c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-aa5cd3f7-c9a1-4aee-9a6f-cc0355887f03
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bca1589e-b8ff-45be-be37-d1fd548558fa
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bd011b45-2d8d-44fe-8a80-0a966008e104
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-adcd5afa-f7dd-43c1-ae66-dfbae5ff73e8
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-b8bf7732-4f02-4291-a8e6-512773e62c27
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bab7f771-dec4-4d42-9ac6-f7ed7412055c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c223edfc-b0e7-4b91-ba7b-e0056b1b72ea
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bd6bb351-0f73-4d62-bc8f-d9896ef00e37
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bedf1689-0735-4a96-b99d-981dc2bf4253
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c4e76b3d-6454-4c15-a981-26880a295beb
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c6ec0391-522f-4b16-ab1f-071d52108896
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c30ba73a-bc86-484b-b979-0ef83c6a3421
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c506bcd4-4a05-46c4-a7d3-993583e5a939
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c56b1e37-b142-4b1f-a15b-3050e81d9a6b
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c281efcb-269e-4c6c-b17c-51cb01a7efe7
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c353741c-a54d-4ca9-b6bb-48dc91d942b9
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c9086da9-41b8-4b57-95df-3b307b490411
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c8e1334f-e076-4923-a84f-3c2e0c56c255
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-cc0dc5b6-9b73-4fd0-8e13-20fbc946c8d4
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ccc70f63-63ae-4df2-90e9-169f79aece81
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ceeefd01-b3bb-483f-9773-fdffeb78ff46
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-cefd39c7-f39d-4839-974b-a3314ab3e648
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d0653406-a905-4d80-8b1c-60b29d05236e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d05330a0-233c-4ca0-a933-f95e21aca1b2
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d1465add-fb49-4a62-a86a-1be0526ed214
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c0622658-b489-4138-8e5c-a8309892c63c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d2eb2b26-69fa-4162-918d-3226b2cb42fb
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d6f80a87-766b-4f3f-9b9c-d9a0903c649e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d3db2f8c-609e-4910-8995-e09761858902
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d131f7c9-d731-48ae-ac3e-25d092a3e5a2
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d45a8b04-66f0-4816-83c0-88c3834ebb0d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-d5e57974-f1a4-4daa-b806-5d69e14de937
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-db5e3776-12ee-4b01-86af-4da7f8176858
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e0884979-1a13-418a-9c4c-90326691914c
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-dd848671-f83b-4a88-aec1-7be6d8086bc6
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-dfffb64a-3ff3-4b4e-972c-06ca9c0a9a49
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e09a1fa1-7258-4507-aba7-465348d1993a
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e1442dd1-2534-40f4-9f0c-cb11d44ee514
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e1cf37ef-beda-41cc-8962-8d81bb4ea1fd
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e4047479-ad1e-4470-93c2-50775e38fc5a
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e7be158e-0095-4df0-905a-ed45516ed10e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e0593644-e1ca-4cc5-95ff-4e6b74c85a2d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e973e317-93ad-49a9-972f-a460bcff3b0d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-eb166a56-76a6-422f-8063-1391d6e9a1ce
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e98364df-ff69-45ca-9f50-65be184b77ae
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-e840eadc-ce11-4c5a-83e8-1b76c058530b
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-dbdd2a11-dccc-446e-807f-2589d0355aa1
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ec526a02-abdc-4701-9ede-b06f9c7ccc07
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-eacb606d-c0d7-4d2a-ab30-ed29aa91bf91
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ed7d7c50-fd84-4852-9ea7-bd06ece87099
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ef1beaa4-ce8c-45b6-b121-c5def661f967
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f3325fc6-d01d-4e91-b0f1-265e8291a336
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f2ad6faa-cfa0-450a-bfec-a52f315ff791
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f3e4132c-936c-4335-a835-cdb70475da6d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f0fa0982-e8a3-4cf6-8f03-aae11aa24732
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f65b0f72-bdcc-44e4-9352-db43c68a9185
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f7362403-43ec-465f-bef9-2db638c87e99
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f75e821d-1862-442d-a227-591563dba627
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f7c4dce0-3783-4c4b-9bb2-0a5259117e32
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f6147aab-442e-45c0-9dca-41a038c76cc1
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f97f041e-c96a-4991-9c66-8518a1936883
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f99df957-2edb-4aa8-8064-d084a71e9cbd
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-faff7b29-76a2-4296-9d49-55eaa08861ee
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-f96b1641-bbf9-4018-b41b-7700bfd92779
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-befe50e4-5c58-4af3-ac4e-77ba05ccb803
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fb527672-850f-4593-94ac-f18c8a210a09
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fb54b936-7e83-49b8-9c02-920c67bbe643
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fbc1f955-dfd6-4396-ad7a-31f298d3563b
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fc41a6a9-6c26-485c-b9b1-d34c8ffc64db
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fb312cfd-4272-4d77-9d0c-4a540534253e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fd88520f-b542-4384-996d-7da0d5915e75
+30 16:48:00 INFO PendingOrdersMinion-Review List PendingOrders.2: Count:0
+30 16:48:00 INFO PendingOrdersMinion-PendingOrderReviewComplete: 0
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fd06e41b-36c1-4243-9c7a-4fb29987d7f9
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-24a2b019-e0ca-402b-b361-380c6bfcc993
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fd9006a3-c8fd-43b4-859a-f8f99164c8eb
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fe5acc1a-b73b-48df-a0c1-f701aea4c9c9
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fef0a706-8785-4418-8f60-5b19131cd26d
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fe595f6c-12b9-429c-9650-062d3fae49de
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-ff29db86-9d7f-4e2b-90e3-38c7947c3102
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-fec2a30b-45a3-496e-a5a6-112abab6ebec
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a4519d1f-966d-4348-9bb3-9d9fae30b8de
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bd0a3766-356d-466a-945a-04bbb1052b60
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c2151541-e1f7-483d-87de-64e4e7265b9f
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-a4d0f96b-02f9-4286-bb8e-00f1fe5d32b0
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-c481efc4-d601-45c1-a5c2-51af18234eeb
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-bd49c082-1b9c-47c0-8988-4dbe358bd02e
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7f4b0e28-84cc-411d-8873-3f8c1e0fd6cd
+30 16:48:00 INFO Core.MemCache.CE.Add.ContentItem: ItemKey=Entity-ContentItem-7d2ff1d9-4997-4356-9b42-7900840bdba3
+30 16:48:00 INFO ReleasedOrdersMinion - Review List ReleasedOrders
+35 16:48:01 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-ReleasedOrders
+38 16:48:01 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-PurgeCategories
+34 16:48:01 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-RefundPendingRmas
+45 16:48:01 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-SettleSalesActivities
+49 16:48:01 INFO Core.MemCache.CE.Miss.ManagedList: ItemKey=Entity-ManagedList-WaitingForAvailabilityOrders
+43 16:48:01 INFO PurgeCategoriesMinion-Review List PurgeCategories: Count:0
+43 16:48:01 INFO PurgeCategoriesMinion-PurgeCategoriesComplete: 0
+43 16:48:01 INFO RefundRmasMinion-Review List RefundPendingRmas: Count:0
+43 16:48:01 INFO RefundRmasMinion-RefundRmas Completed
+26 16:48:01 INFO SettleSalesActivitiesMinion-Review List SettleSalesActivities: Count:0
+26 16:48:01 INFO SettleSalesActivitiesMinion- SettleSalesActivities Complete: 0
+26 16:48:02 INFO MemCache.CreateCache.HabitatMinions.ItemsCollection
+28 16:48:02 INFO Core.MemCache.CE.Miss.EntityIndex: ItemKey=ContentPath-ByPATH-/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames
+27 16:48:02 INFO MemCache.CreateCache.HabitatMinions.Items
+38 16:48:02 INFO SQL:block:persistentity.Customer: EntityId=Entity-Customer-ee1d715405f74f24815ea43ad409167e
+26 16:48:02 ERROR Pipeline completed with error
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'Konabos.Loyalty.Feature.ReconcilePoints.Pipelines.Blocks.UpdateCustomerInxDBBlock'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type serviceType, Type implementationType, ISet`1 callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(Type serviceType, Type implementationType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, ISet`1 callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType, ServiceProvider serviceProvider)
+   at System.Collections.Concurrent.ConcurrentDictionaryExtensions.GetOrAdd[TKey,TValue,TArg](ConcurrentDictionary`2 dictionary, TKey key, Func`3 valueFactory, TArg arg)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.GetServiceOrCreateInstance[T](IServiceProvider provider)
+   at Sitecore.Framework.Pipelines.Definitions.AddPipelineBlockDefinition`1.Build(IServiceProvider services)
+   at Sitecore.Framework.Pipelines.BasePipelineBlockRunner.<Run>d__3`1.MoveNext()
